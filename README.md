@@ -11,7 +11,7 @@ Part 9:	Create a linked list, user inputs numbers until he enters 0 or exceeds t
 
 tictactoeasm.asm : Tic-Tac-Toe game in assembly. Game is played in the last memory positions.
 
-Commands:
+## Commands:
 1. mov reg constant
 2. mov reg reg
 3. mov reg address
